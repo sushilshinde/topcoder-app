@@ -59,7 +59,7 @@
     "appirio-tech-ng-ui-components": "2.2.4",
     "appirio-tech-react-components": "appirio-tech/react-components.git#listings-release-v3",
     "auth0-angular": "4.2.7",
-    "auth0-js": "6.8.4",
+    "auth0-js": "8.0.0",
     "d3": "3.5.17",
     "font-awesome": "4.7.0",
     "html-webpack-plugin": "2.30.1",
@@ -67,14 +67,14 @@
     "jstimezonedetect": "1.0.6",
     "lodash": "4.17.4",
     "moment": "2.18.1",
-    "moment-timezone": "0.5.13",
+    "moment-timezone": "0.5.18",
     "ng-dialog": "0.5.9",
     "react-select": "1.0.0-beta8",
     "restangular": "1.6.1",
     "tc-accounts": "https://github.com/appirio-tech/accounts-app.git#0.0.7",
     "tc-angular-ellipsis": "0.1.6",
     "topcoder-app-r": "https://github.com/appirio-tech/topcoder-app-r.git#0.0.1",
-    "xml2js": "0.4.17",
+    "xml2js": "0.4.18",
     "zepto": "1.0.1"
   }
 }
